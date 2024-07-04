@@ -24,7 +24,7 @@ I have experience :
 - Operating and developing distributed applications
 - Managing public and on-prem cloud infrastructure
 
-Working on some fun side projects I work on when I have the time :
+Working on some fun side projects when I have the time :
 
 - **Shortbread** : Scalable URL shortener implemented in Python with FastAPI and MongoDB
 - **Webchess** : Chess website designed with a microservice architecture
