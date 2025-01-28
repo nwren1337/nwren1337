@@ -9,9 +9,13 @@
     </div>
 </div>
 
- ### About me
+### About me
 
- I am a full stack software engineer on the developer experience team at Datto. Experienced with writing, running, delivering, and maintiaining software. I am somewhere inbetween educated and self taught.  
+ I am an IC4 Production Engineer at Meta!
+ We drive reliable, maintainable, and efficient solutions at internet scale.
+
+Experienced with writing, running, delivering, and maintiaining software.
+Somewhere inbetween educated and self taught.
 
 I have experience :
 
