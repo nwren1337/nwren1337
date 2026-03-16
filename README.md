@@ -11,8 +11,7 @@
 
 ### About me
 
- I am an IC4 Production Engineer at Meta!
- We drive reliable, maintainable, and efficient solutions at internet scale.
+ I am a Full Stack Software Engineer with previous experience at Meta and Datto.
 
 Experienced with writing, running, delivering, and maintiaining software.
 Somewhere inbetween educated and self taught.
@@ -20,8 +19,8 @@ Somewhere inbetween educated and self taught.
 I have experience :
 
 - Improving development velocity
-- Developing API's, primarily REST and gRPC
-- Developing SPA's, primarily Typescript React
+- Developing API's, REST, gRPC, and GraphQL
+- Developing SPA's, primarily React using both Typescript and Flow type
 - Refactoring legacy code
 - Creating new features in complex systems
 - Building CI/CD pipelines
@@ -31,7 +30,8 @@ I have experience :
 Working on some fun side projects when I have the time :
 
 - **Shortbread** : Scalable URL shortener implemented in Python with FastAPI and MongoDB
-- **Webchess** : Chess website designed with a microservice architecture
+- **giftlistr** : React + GraphQL + Relay + FastAPI based secret santa app
+- **sift** : CLI written in Go to make sifting through large log files EZ PZ
 
 ## Languages and Tools
 
