@@ -11,21 +11,21 @@
 
 ### About me
 
- I am a Full Stack Software Engineer with previous experience at Meta and Datto.
+ I am a Full Stack Software Engineer with previous professional experience at Meta and Datto.
 
-Experienced with writing, running, delivering, and maintiaining software.
+I write, run, deliver, and maintiain software at scale.
 Somewhere inbetween educated and self taught.
 
-I have experience :
+I have :
 
-- Improving development velocity
-- Developing API's, REST, gRPC, and GraphQL
-- Developing SPA's, primarily React using both Typescript and Flow type
-- Refactoring legacy code
-- Creating new features in complex systems
-- Building CI/CD pipelines
-- Operating and developing distributed applications
-- Managing public and on-prem cloud infrastructure
+- Improved development velocity
+- Developed API's, REST, gRPC, and GraphQL
+- Developed SPA's, primarily React using both Typescript and Flow type
+- Refactored legacy code
+- Created new features in complex systems
+- Built CI/CD pipelines
+- Operated and developing distributed applications
+- Managed public and on-prem cloud infrastructure
 
 Working on some fun side projects when I have the time :
 
